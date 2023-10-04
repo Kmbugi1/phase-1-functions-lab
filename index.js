@@ -1,1 +1,6 @@
-// Code your solution in this file!
+function calculateArea (width, length) {
+    area= width * length
+    console.log (area); 
+}
+
+calculateArea(5, 7);
